@@ -167,3 +167,9 @@ dfsdf */
 // let num39_4 = 25;
 // console.log(num39_2, num39_3, num39_4);
 
+// Задание 40 №1
+// console.log(10, -5, 0);
+// console.log(3.14, -2.5, 1.0);
+// console.log('hey');
+// console.log(true, false);
+// console.log('A', '!', '*');
