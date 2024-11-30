@@ -69,3 +69,9 @@ dfsdf */
 // let result4 = c4 + d4;
 
 // alert(result4);
+
+// Задание 22 №1
+// let a22 = 1.5;
+// let b22 = 0.75;
+
+// alert(a22+b22);
