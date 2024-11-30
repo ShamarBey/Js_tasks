@@ -114,3 +114,24 @@
 // let sum49_2 = String(a49_2).length + String(b49_2).length;
 // alert(sum49_2);
 
+// Задание 50 №1
+// alert(true + 3);
+
+// Задание 50 №2
+// alert(true + true);
+
+// Задание 50 №3
+// alert(true - true);
+
+// Задание 50 №4
+// alert(true + false);
+
+// Задание 50 №5
+// alert('1' + true);
+
+// Задание 50 №6
+// alert( String(true) + 1 );
+
+// Задание 50 №7
+// alert( String(true) + Number(true) );
+
