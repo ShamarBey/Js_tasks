@@ -10,3 +10,7 @@
 // let str54_3 = 'serverosmanov';
 // alert(str54_3[str54_3.length - 3]);
 
+// Задание 55 №1
+// let test55 = '12345'; 
+// alert(Number(test55[0]) + Number(test55[1]) + Number(test55[2]) + Number(test55[3]) + Number(test55[4]));
+
