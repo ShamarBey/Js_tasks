@@ -29,3 +29,16 @@
 // alert(Number(test56_3[2])); 
 // alert(Number(test56_3[1])); 
 // alert(Number(test56_3[0]));
+
+// Задание 57 №1
+// let num = 1;
+// num = num + 1;
+// num = num + 1;
+// alert(num);
+
+// Задание 57 №2
+// let num = 1;
+// num = num + 2;
+// num = num + 3;
+// alert(num);
+
