@@ -33,3 +33,7 @@ dfsdf */
 
 // a = 20;
 // alert(a);
+
+// 17
+// let a = 1 + 2 + 3;
+// alert(a);
