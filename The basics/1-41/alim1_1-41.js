@@ -115,3 +115,7 @@ dfsdf */
 // let str29_3 = "hello";
 // let str29_4 = "world";
 // alert(str29_3 + ' ' + str29_4);
+
+// 30-1
+// let str = 'Привет';
+// alert(str.length);
