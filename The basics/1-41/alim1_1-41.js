@@ -138,3 +138,7 @@ dfsdf */
 // let a_34 = null;
 // alert(a_34);
 
+// Задание 35 №1
+// let a_35 = true;
+// alert(a_35);
+
