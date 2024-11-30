@@ -94,3 +94,11 @@ dfsdf */
 // Задание 26 №1
 // let a26 = 2;
 // alert(a26 ** 10);
+
+// Задание 28 №1
+// let name28 = "Alim";
+// alert(name28);
+
+// let surname28_1 = "Rizaev";
+// alert(surname28_1);
+
