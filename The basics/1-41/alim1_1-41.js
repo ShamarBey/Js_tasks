@@ -125,3 +125,7 @@ dfsdf */
 // let str2 = 'yyy';
 // let txt = `aaa + ${str1} + bbb + ${str2} + ccc`;
 // alert(txt);
+
+// Задание 32 №1
+// let str32 = `abc`;
+// alert(str32);
