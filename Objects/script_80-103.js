@@ -115,3 +115,8 @@ console.log(obj92_2[prop92_2]);
 let obj94 = {x: 1, y: 2, z: 3};
 console.log('x' in obj94);
 console.log('w' in obj94); 
+
+// Задание 95 №1
+let obj95 = {x: 1, y: 2, z: 3};
+delete obj95.x;
+console.log('x' in obj95);
