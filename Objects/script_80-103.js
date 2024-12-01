@@ -58,3 +58,8 @@ let obj87 = {5: 'rosetta', 25: 'tinker bell', 15: 'silvermist'};
 console.log(obj87[5])
 console.log(obj87[15]); 
 console.log(obj87[25]);
+
+// Задание 88 №1
+let obj88 = {x: 1, y: 2, z: 3};
+let keys = Object.keys(obj88);
+console.log(keys);
