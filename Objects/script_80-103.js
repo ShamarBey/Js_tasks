@@ -9,3 +9,7 @@ console.log(obj81);
 // Задание 82 №1
 let user82={name: "Catherine" , surname: "Grebeneva", patronymic: "Andreevna"};
 console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
+
+// Задание 83 №1
+let date83= {year:"2024", month:"10", day:"03"};
+console.log(date83.year+'.'+date83.month+"."+date83.day);
