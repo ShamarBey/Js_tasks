@@ -100,3 +100,8 @@
 // let key77_3 = 2;
 // console.log(arr77_2[key77_2] + arr77_2[key77_3]);
 
+// Задание 78 №1
+// let arr78 = ['a', 'b', 'c', 'd', 'e']
+// delete arr78[0];
+// delete arr78[1];
+// console.log(arr78.length)
