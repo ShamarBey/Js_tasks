@@ -158,3 +158,39 @@ console.log('x' in obj95);
 
 // Задание 98 №2
 // console.log( Array.isArray({x: 1, y: 2, z: 3}) ); 
+
+// Задание 99 №1
+// let test = {x: 1, y: 2, z: 3};
+// console.log(test);
+
+// Задание 99 №2
+// let test = {x: 1, y: 2, z: 3};
+// console.log(test.x);
+
+// Задание 99 №3
+// let test = [1, 2, 3];
+// console.log(test);
+
+// Задание 99 №4
+// let test = [1, 2, 3];
+// console.log(test[1]);
+
+// Задание 99 №5
+// let test1 = [1, 2, 3];
+// let test2 = 1;
+// console.log(test1);
+
+// Задание 99 №6
+// let test1 = [1, 2, 3];
+// let test2 = 1;
+// console.log(test1[test2]);
+
+// Задание 99 №7
+// Примитивные типы данных в JavaScript:
+// 1. string
+// 2. number
+// 3. boolean
+// 4. null
+// 5. undefined
+// 6. symbol (ES6)
+// 7. bigint (ES11)
