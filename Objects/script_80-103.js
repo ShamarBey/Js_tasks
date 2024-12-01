@@ -152,3 +152,9 @@ console.log('x' in obj95);
 // Задание 97 №5
 // let arr3 = ['1', '2', '3'];
 // console.log( typeof arr3[0] ); 
+
+// Задание 98 №1
+// console.log( Array.isArray([1, 2, 3]) );
+
+// Задание 98 №2
+// console.log( Array.isArray({x: 1, y: 2, z: 3}) ); 
