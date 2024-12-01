@@ -72,3 +72,12 @@ console.log(Object.keys(obj89).length);
 let obj90 = {x: 1, y: 2, z: 3};
 let key90 = 'x';
 console.log(obj90[key90]);
+
+// Задание 91 №1
+let obj91_1 = {x: 1, y: 2, z: 3};
+console.log(obj91_1['x']);
+
+// Задание 91 №2
+let obj91_2 = {x: 1, y: 2, z: 3};
+let key91 = 'x';
+console.log(obj91_2[key91]);
