@@ -81,3 +81,14 @@ console.log(obj91_1['x']);
 let obj91_2 = {x: 1, y: 2, z: 3};
 let key91 = 'x';
 console.log(obj91_2[key91]);
+
+// Задание 92 №1
+let obj92_1 = {x: 1, y: 2, z: 3};
+let prop92_1 = 'x';
+console.log(obj92_1[prop92_1]);
+
+// Задание 92 №2
+let obj92_2 = {x: 1, y: 2, z: 3};
+
+let prop92_2 = 'x';
+console.log(obj92_2[prop92_2]);
