@@ -43,3 +43,11 @@ obj85.x = obj85.x ** 2;
 obj85.y = obj85.y ** 2;
 obj85.z = obj85.z ** 2;
 console.log(obj85);
+
+
+// Задание 86 №1
+let obj86 = {};
+obj86.a = 'love';
+obj86.b = 'kind';
+obj86.c = 'miracle';
+console.log(obj86);
