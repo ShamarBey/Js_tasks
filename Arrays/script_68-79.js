@@ -69,3 +69,8 @@
 // arr74[4] = 5;
 // console.log(arr74);
 
+// Задание 75 №1
+// let arr75 = [];
+// arr75[3] = 'a';
+// arr75[8] = 'b';
+// console.log(arr75.length);
