@@ -214,3 +214,18 @@ console.log('x' in obj95);
 // arr1[0] = 'a';
 // arr2[0] = 'b';
 // console.log(arr2);
+
+// Задание 101 №1
+const arr101_1 = ['a', 'b', 'c'];
+arr101_1[1] = '!';
+console.log(arr101_1);
+
+// Задание 101 №2
+const arr101_2 = ['a', 'b', 'c'];
+arr101_2 = [1, 2, 3];
+console.log(arr101_2);
+
+// Задание 101 №3
+const arr101_3 = ['a', 'b', 'c'];
+arr101_3 = ['a', 'b', 'c'];
+console.log(arr101_3);
