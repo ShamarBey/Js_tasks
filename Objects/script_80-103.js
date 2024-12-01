@@ -51,3 +51,10 @@ obj86.a = 'love';
 obj86.b = 'kind';
 obj86.c = 'miracle';
 console.log(obj86);
+
+
+// Задание 87 №1
+let obj87 = {5: 'rosetta', 25: 'tinker bell', 15: 'silvermist'};
+console.log(obj87[5])
+console.log(obj87[15]); 
+console.log(obj87[25]);
