@@ -28,4 +28,11 @@
 // let arr69_4 = ['a', 'b', 'c', 'd'];
 // console.log(String(arr69_4[0])+ "+" + String(arr69_4[1])+ '+' + String(arr69_4[2])+ '+' + String(arr69_4[3]));
 
+// Задание 70 №1
+// let arr70_1 = ['disney', 'princess', 'tiana'];
+// console.log(arr70_1.length) 
+
+// Задание 70 №2
+// let arr70_2 = ['disney', 'princess', 'tiana', 'cartoon'];
+// console.log(arr70_2[arr70_2.length - 1]) 
 
