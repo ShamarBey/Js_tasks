@@ -89,3 +89,14 @@
 // arr76_2.push(5);
 // console.log(arr76_2)
 
+// Задание 77 №1
+// let arr77_1 = ['a', 'b', 'c'];
+// let key77_1 = 2;
+// console.log(arr77_1[key77_1]);
+
+// Задание 77 №2
+// let arr77_2 = [1, 2, 3, 4, 5];
+// let key77_2 = 1;
+// let key77_3 = 2;
+// console.log(arr77_2[key77_2] + arr77_2[key77_3]);
+
