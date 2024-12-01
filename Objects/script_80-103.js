@@ -134,3 +134,21 @@ console.log('x' in obj95);
 // Задание 96 №4
 // let obj1 = {x: 1, y: 2, z: 3};
 // console.log( typeof obj1['x'] ); 
+
+// Задание 97 №1
+// console.log( typeof {x: 1, y: 2, z: 3} ); 
+
+// Задание 97 №2
+// console.log( typeof [1, 2, 3] ); 
+
+// Задание 97 №3
+// let arr1 = [1, 2, 3];
+// console.log( typeof arr1 ); 
+
+// Задание 97 №4
+// let arr2 = [1, 2, 3];
+// console.log( typeof arr2[0] ); 
+
+// Задание 97 №5
+// let arr3 = ['1', '2', '3'];
+// console.log( typeof arr3[0] ); 
