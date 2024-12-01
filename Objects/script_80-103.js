@@ -229,3 +229,8 @@ console.log(arr101_2);
 const arr101_3 = ['a', 'b', 'c'];
 arr101_3 = ['a', 'b', 'c'];
 console.log(arr101_3);
+
+// Задание 102 №1
+const arr102 = [1, 2, 3, 4, 5];
+const res102 = arr102[1] + arr102[2];
+console.log(res102);
