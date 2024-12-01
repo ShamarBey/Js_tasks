@@ -13,3 +13,26 @@ console.log(user82["surname"]+" "+user82["name"]+' '+user82["patronymic"]);
 // Задание 83 №1
 let date83= {year:"2024", month:"10", day:"03"};
 console.log(date83.year+'.'+date83.month+"."+date83.day);
+
+// Задание 84 №1
+// let obj84_1 = {
+// 	'1a': 1, - кавычки обязательны
+// 	'b2': 2, - кавычки не обязательны
+// 	'с-с': 3, - кавычки обязательны
+// 	'd 4': 4, - кавычки обязательны
+// 	'e5': 5 - кавычки не обязательны
+// };
+
+// Задание 84 №2
+let obj84_2 = {
+	'1a': 1, 
+	'b2': 2, 
+	'с-с': 3, 
+	'd 4': 4, 
+	'e5': 5
+}; 
+console.log(obj84_2['1a']);
+console.log(obj84_2.b2);
+console.log(obj84_2['c-c']);
+console.log(obj84_2['d 4']);
+console.log(obj84_2.e5);
