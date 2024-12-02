@@ -578,3 +578,9 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 124 №1
+// let test124 = 10;
+// if (test124 == 10) {
+// 	console.log('yes');
+// }
