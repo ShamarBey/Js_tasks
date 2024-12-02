@@ -323,3 +323,69 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 119 №1
+// // При приведении к логическому типу (boolean) значения, которые дают false, включают:
+// // 1. false
+// // 2. 0 
+// // 3. -0 
+// // 4. NaN 
+// // 5. "" — пустая строка.
+// // 6. null 
+// // 7. undefined 
+
+// Задание 119 №2
+// // let test = 1;	
+// // if (test == true) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
+
+// Задание 119 №3
+// // let test = 0;  
+// // if (test == true) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
+
+// Задание 119 №4
+// // let test = 1;  
+// // if (test == false) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
+
+// Задание 119 №5
+// // let test = 1;  
+// // if (test != true) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
+
+// Задание 119 №6
+// // let test = '';  
+// // if (test == false) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
+
+// Задание 119 №7
+// // let test;  
+// // if (test == true) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
+
+// Задание 119 №8
+// // let test = 3 * 'a';  
+// // if (test == true) {
+// //   console.log('+++');
+// // } else {
+// //   console.log('---');
+// // }
