@@ -62,3 +62,12 @@
 // } else {
 // 	console.log('test108_3 != test108_4');
 // }
+
+// Задание 109 №1
+// let test109_1 = 'cinderella';
+// let test109_2 = 'disney';
+// if (test109_1 == test109_2) {
+// 	console.log('test109_1 = test109_2'); 
+// } else {
+// 	console.log('test109_1 != test109_2');
+// }
