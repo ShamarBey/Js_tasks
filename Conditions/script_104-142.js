@@ -80,3 +80,48 @@
 // } else {
 // 	console.log('test110_1 != test110_2');
 // }
+
+// Задание 111 №1
+// // let test1 = '3';
+// // let test2 = '3';		
+// // if (test1 == test2) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
+
+// Задание 111 №2
+// // let test1 = '3';
+// // let test2 = '3';	
+// // if (test1 === test2) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
+
+// Задание 111 №3
+// // let test1 = 3;
+// // let test2 = '3';		
+// // if (test1 == test2) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
+
+// Задание 111 №4
+// // let test1 = 3;
+// // let test2 = '3';	
+// // if (test1 === test2) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
+
+// Задание 111 №5
+// // let test1 = 3;
+// // let test2 = 3;		
+// // if (test1 === test2) {
+// // 	console.log('+++');
+// // } else {
+// // 	console.log('---');
+// // }
