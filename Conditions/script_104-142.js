@@ -305,3 +305,21 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 118 №1
+// let test118_1 = true;
+
+// if (test118_1 === true) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
+
+// Задание 118 №2
+// let test118_2 = false;
+
+// if (test118_2 === false) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
