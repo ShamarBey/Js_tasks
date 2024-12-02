@@ -36,3 +36,11 @@
 // 	console.log('+++'); 
 // } else {
 // 	console.log('---');
+
+// Задание 107 №1
+// let test107 = 25;
+// if (test107 != 10) {
+// 	console.log('+++'); 
+// } else {
+// 	console.log('---');
+// }
