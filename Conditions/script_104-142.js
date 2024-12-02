@@ -44,3 +44,21 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 108 №1
+// let test108_1 = 5;
+// let test108_2 = 15;
+// if (test108_1 > test108_2) {
+// 	console.log('test108_1 > test108_2'); 
+// } else {
+// 	console.log('test108_1 < test108_2');
+// }
+
+// Задание 108 №2
+// let test108_3 = 5;
+// let test108_4 = 5;
+// if (test108_3 == test108_4) {
+// 	console.log('test108_3 = test108_4'); 
+// } else {
+// 	console.log('test108_3 != test108_4');
+// }
