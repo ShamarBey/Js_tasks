@@ -71,3 +71,12 @@
 // } else {
 // 	console.log('test109_1 != test109_2');
 // }
+
+// Задание 110 №1
+// let test110_1 = '123';
+// let test110_2 = 123;
+// if (test110_1 == test110_2) {
+// 	console.log('test110_1 = test110_2'); 
+// } else {
+// 	console.log('test110_1 != test110_2');
+// }
