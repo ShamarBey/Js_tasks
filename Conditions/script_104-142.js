@@ -29,3 +29,10 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 106 №1
+// let test106 = 10;
+// if (test106 == 10) {
+// 	console.log('+++'); 
+// } else {
+// 	console.log('---');
