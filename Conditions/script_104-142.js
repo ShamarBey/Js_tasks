@@ -296,3 +296,12 @@
 // } else {
 // 	console.log('---');
 // }
+
+// Задание 117 №1
+// let num117_1 = 5;
+// let num117_2 = 1;
+// if (! (num117_1 < 0 || num117_2 > 10) ) {
+// 	console.log('+++');
+// } else {
+// 	console.log('---');
+// }
