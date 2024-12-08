@@ -392,3 +392,19 @@ for ( let i in obj162_2){
     obj162_2[i] +=  1;
 }
 console.log(obj162_2)
+
+
+// Задание 163 №1
+let arr163_1 = ['a', 'b', 'c', 'd', 'e'];
+let flag163_1 = false;
+for (let elem163_1 of arr163_1) {
+	if (elem163_1 == 'c') {
+		flag163_1 = true;
+		break;
+	}
+}
+if (flag163_1 === true) {
+	console.log('В этом массиве есть элемент c? Ответ: +++');
+} else {
+	console.log('В этом массиве есть элемент c? Ответ: ---');
+}
