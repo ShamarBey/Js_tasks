@@ -408,3 +408,29 @@ if (flag163_1 === true) {
 } else {
 	console.log('В этом массиве есть элемент c? Ответ: ---');
 }
+
+// Задание 163 №2
+let task163_2 = 125;
+let flag163_2 = true;
+for (let i = 2; i <= Math.sqrt(task163_2); i++) {
+    if (task163_2 % i === 0) { 
+        flag163_2 = false;
+        break;
+    }
+}
+if (flag163_2 === true) {
+    console.log('Результат задания 163 №2: Число ' + task163_2 + ' простое');
+} else {
+    console.log('Результат задания 163 №2: Число ' + task163_2 + ' составное');
+}
+
+// Задание 164 №1
+let arr164_1 = [10, 20, 30, 40, 21, 32, 51];
+let sum164_1 = 0;
+for( let elem164_1 of arr164_1){
+    let str164_1 = String(elem164_1);
+    if (str164_1[0] == 1 || str164_1[0] == 2){
+        sum164_1 += Number(str164_1);
+    }
+}
+console.log('Результат задания 164 №1: ' + sum164_1);
