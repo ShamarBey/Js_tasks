@@ -803,3 +803,29 @@ obj = {
 key1 = 'key2';
 key2 = 'key4';
 console.log(obj[key1][key2]);
+
+// Задание 182 №1
+console.log('Результат задания 182 №1:');
+let employees182 = [
+	{
+		name: 'kate',
+		salary: 300,
+		age: 28,
+	},
+	{
+		name: 'ksenia',
+		salary: 400,
+		age: 29,
+	},
+	{
+		name: 'andrew',
+		salary: 500,
+		age: 30,
+	},
+];
+employees182.push({
+	name: 'marlena',
+	salary: 600,
+	age: 31,
+});
+console.log(employees182[3])
