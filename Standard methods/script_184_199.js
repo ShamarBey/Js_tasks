@@ -96,3 +96,12 @@ console.log('Результат задания 191 №2:');
 let str191_2 = "file:///D:/javascript_tasks_kate/STANDARD_METHODS/tasks%23184-198/kate_tasks%23184-198.html";
 let res191_2 = str191_2.endsWith('.html');
 console.log(res191_2);
+
+
+// Задание 192 №1
+console.log('Результат задания 192 №1:');
+let str192_1 = '1-2-3-4-5';
+while (str192_1.includes('-')) {
+	str192_1 = str192_1.replace('-', '.');
+}
+console.log(str192_1);
