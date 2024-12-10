@@ -69,3 +69,19 @@ function func(num1 = 0, num2 = 0) {
 func(2, 3);
 func(3); 
 func();  
+
+// Задание 205 №1
+console.log('Результат задания 205 №1:');
+function func205_1(num205_1) {
+	return num205_1 ** 3;
+}
+let res205_1 = func205_1(3);
+console.log(res205_1);
+
+// Задание 205 №2
+console.log('Результат задания 205 №2:');
+function func205_2(num205_2) {
+	return Math.sqrt(num205_2);
+}
+let res205_2 = func205_2(3) + func205_2(4);
+console.log(res205_2);
