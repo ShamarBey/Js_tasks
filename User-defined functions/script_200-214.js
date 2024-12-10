@@ -51,3 +51,21 @@ let param203_1 = 1;
 let param203_2 = 2;
 let param203_3 = 3;
 sum203(param203_1, param203_2, param203_3);
+
+// Задание 204 №1
+console.log('Результат задания 204 №1:');
+function func(num = 5) {
+	console.log(num * num);
+}
+func(2); 
+func(3);
+func(); 
+
+// Задание 204 №2
+console.log('Результат задания 204 №2:');
+function func(num1 = 0, num2 = 0) {
+	console.log(num1 + num2);
+}
+func(2, 3);
+func(3); 
+func();  
