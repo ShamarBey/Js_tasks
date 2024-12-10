@@ -617,3 +617,98 @@ for (let i = 0; i < data3.length; i++) {
     console.log(items); 
   }
 }
+
+// Задание 180 №2
+console.log('Результат задания 180 №2:');
+employees = [
+  {
+      name: 'name1',
+      salary: 300,
+  },
+  {
+      name: 'name2',
+      salary: 400,
+  },
+  {
+      name: 'name3',
+      salary: 500,
+  },
+];
+let sum = 0;
+for (let employee of employees) {
+  sum += employee.salary;
+}
+console.log(sum);
+
+// Задание 180 №3
+console.log('Результат задания 180 №3:');
+employees = [
+  {
+      name: 'name1',
+      salary: 300,
+      age: 28,
+  },
+  {
+      name: 'name2',
+      salary: 400,
+      age: 29,
+  },
+  {
+      name: 'name3',
+      salary: 500,
+      age: 30,
+  },
+  {
+      name: 'name4',
+      salary: 600,
+      age: 31,
+  },
+  {
+      name: 'name5',
+      salary: 700,
+      age: 32,
+  },
+];
+sum = 0;
+for (let employee of employees) {
+  if (employee.age >= 30) {
+      sum += employee.salary;
+  }
+}
+console.log(sum);
+
+// Задание 181 №1
+console.log('Результат задания 181 №1:');
+let months = {
+	'ru': [
+		'январь',
+		'февраль',
+		'март',
+		'апрель',
+		'май',
+		'июнь',
+		'июль',
+		'август',
+		'сентябрь',
+		'октябрь',
+		'ноябрь',
+		'декабрь',
+	],
+	'en': [
+		'january',
+		'february',
+		'march',
+		'april',
+		'may',
+		'june',
+		'july',
+		'august',
+		'september',
+		'october',
+		'november',
+		'december',
+	],
+};
+let lang = 'ru'; // может быть или 'ru' или 'en'
+let month = 5;   // число от 0 до 11
+console.log(months[lang][month]);
