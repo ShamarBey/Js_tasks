@@ -258,3 +258,51 @@ function func212_4(num212_4) {
 }
 console.log(func212_4(-5));
 
+// Задание 213 №1
+function func213_1(arr213) {
+	if (arr213.length === 0) {
+		return 0;
+	  }
+	let sum213_1 = 0;
+	for (let elem213_1 of arr213) {
+		sum213_1 += elem213_1;
+	}
+	return sum213_1 / arr213.length;
+}
+
+// Задание 213 №2
+function func213_2(arr213_1, arr213_2) {
+	let sum213_2 = 0;
+	for (let elem213_2 of arr213_1) {
+	  sum213_2 += elem213_2;
+	}
+	let sum213_3 = 0;
+	for (let elem213_2 of arr213_2) {
+	  sum213_3 += elem213_2;
+	}
+	if (sum213_3 != 0){
+	return sum213_2 / sum213_3;
+	}
+	else return 0;
+}
+
+// Задание 213 №3
+function func213_3(arr213_3) {
+	let sum213_4 = 0;
+  
+	for (let elem213_3 of arr213_3) {
+	  sum213_4 += elem213_3;
+	}
+  
+	return sum213_4;
+  }
+  
+// Задание 214 №1
+console.log('Результат задания 214 №1:');
+function func214() {
+	return 3;
+}
+function func214_1() {
+	return 5;
+}
+console.log(func214() + func214_1()); 
