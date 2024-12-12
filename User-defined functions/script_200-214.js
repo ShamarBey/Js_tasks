@@ -152,3 +152,14 @@ function func(num) {
       console.log(func(10)); 
       console.log(func(-5));
     
+
+    // Задание 208 №1
+console.log('Результат задания 208 №1:');
+function func208(num) {
+let sum208 = 0;
+for (let i = 1; i <= num; i++) {
+  sum208 += i; 
+}
+return sum208; 
+}
+console.log(func208(5)); 
