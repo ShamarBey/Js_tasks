@@ -163,3 +163,15 @@ for (let i = 1; i <= num; i++) {
 return sum208; 
 }
 console.log(func208(5)); 
+
+// Задание 209 №1
+console.log('Результат задания 209 №1:');
+function func209(num) {
+let res209 = 0;
+while (num >= 10) {
+  num /= 2;
+  res209++; 
+}
+return res209; 
+}
+console.log(func209(160)); 
